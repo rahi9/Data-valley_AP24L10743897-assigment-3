@@ -28,7 +28,7 @@ public class Organization implements Cloneable {
 
    public static void main(String[] args) {
        try {
-           Organization org1 = new Organization("ORG-001", "My Company", "123 Main Street");
+           Organization org1 = new Organization("Rahi", "RIC Industry", "vsp");
 
            // Create a clone of org1
            Organization org2 = org1.clone();
